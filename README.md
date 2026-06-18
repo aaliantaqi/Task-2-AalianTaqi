@@ -1,7 +1,7 @@
 # 🎓 Student Grade Calculator — Java Project 2
 
 A console-based student grade calculator built in Java as part of the
-DecodeLabs Industrial Training Kit (Batch 2026).
+DecodeLabs Internship (Batch 2026).
 
 ---
 
